@@ -1,0 +1,5 @@
+C:\Users\pcbpy\Documents\Visual Studio 2015\Projects\ActorPattern\ActorPattern\bin\Debug\ActorPattern.dll
+C:\Users\pcbpy\Documents\Visual Studio 2015\Projects\ActorPattern\ActorPattern\bin\Debug\ActorPattern.pdb
+C:\Users\pcbpy\Documents\Visual Studio 2015\Projects\ActorPattern\ActorPattern\obj\Debug\ActorPattern.dll
+C:\Users\pcbpy\Documents\Visual Studio 2015\Projects\ActorPattern\ActorPattern\obj\Debug\ActorPattern.pdb
+C:\Users\pcbpy\Documents\Visual Studio 2015\Projects\ActorPattern\ActorPattern\obj\Debug\ActorPattern.csprojResolveAssemblyReference.cache
